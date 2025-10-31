@@ -66,5 +66,5 @@ Clone este repositório e instale as dependências:
 
 ```bash
 git clone https://github.com/pedrxzz/ml-saude-pedro-lucas.git
-cd ml-saude-hugodias
+cd ml-saude-pedro-lucas
 pip install -r requirements.txt
